@@ -19,3 +19,6 @@ print "      RRRRRRRRRRRRRRRRRRRRRRRR"
 print "       RRRRRRRRRRRRRRRRRRRRRR"
 print "        RRRRRRRRRRRRRRRRRRRR"
 print "            RRRRRRRRRRRR"
+#need it to print the information
+#the unicodes make up the ears
+#Need to use randomizer to get the information to randomize
