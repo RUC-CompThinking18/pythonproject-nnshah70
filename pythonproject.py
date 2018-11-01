@@ -22,7 +22,7 @@ print "            RRRRRRRRRRRR"
 #need it to print the information
 #the unicodes make up the ears
 #Need to use randomizer to get the information to randomize
-import random
+import random #will make random sentences using common terms tied to animal testing and will be factual
 nouns = ("")
 verbs = ("")
 adv = ("")
